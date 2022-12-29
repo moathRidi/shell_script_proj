@@ -1,0 +1,7 @@
+id;group_num;job;award_num;experinece;active;governorate;position;committed;
+1;200;eng;6;8;no;ramallah;boss;yes;
+2;235;eng;7;6;no;ramallah;emp;no;
+3;154;dr;10;7;yes;nablus;emp;yes;
+4;436;acc;2;9;no;jerusalem;boss;no;
+5;199;acc;3;4;no;tubas;emp;no;
+6;321;adv;9;1;no;jenin;boss;no;
